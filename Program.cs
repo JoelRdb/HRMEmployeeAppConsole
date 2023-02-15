@@ -21,7 +21,7 @@ namespace BethanysPieShopHRMEmployeeApp
                 Console.ForegroundColor = ConsoleColor.Blue;
 
                 Console.WriteLine("*********************");
-                Console.WriteLine("* Select an anction *");
+                Console.WriteLine("* Select an action *");
                 Console.WriteLine("*********************");
                 Console.ForegroundColor = ConsoleColor.White;
 
@@ -106,7 +106,7 @@ namespace BethanysPieShopHRMEmployeeApp
             double receiveWage = selectedEmployee.ReceiveWage(out hoursWorked);
 
             Console.WriteLine($"{selectedEmployee.FirstName} {selectedEmployee.LastName} has received a wage of {receiveWage}." +
-                $"The hours worked is reset to {hoursWorked}.\n\n");
+                $"The hours worked is reset to {hoursWorked}.\n\n"); 
         }
     }
 }
