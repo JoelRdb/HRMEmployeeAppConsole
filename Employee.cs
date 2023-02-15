@@ -16,8 +16,8 @@ namespace BethanysPieShopHRMEmployeeApp
         private double wage;
         private double hourlyRate;
 
-        public string FirstName { get{ return FirstName; } set{ firstName = value; } }
-        public string LastName { get { return LastName; } set { lastName = value; } }
+        public string FirstName { get{ return firstName; } set{ firstName = value; } }
+        public string LastName { get { return lastName; } set { lastName = value; } }
         public int NumberOfHoursWorked { get { return numberOfHoursWorked; } set { numberOfHoursWorked = value; } }
         public double Wage { get { return wage; } set { wage = value; } }
         public double HourlyRate { get { return hourlyRate; } set { hourlyRate = value; } }

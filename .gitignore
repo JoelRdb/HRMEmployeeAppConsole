@@ -1,4 +1,4 @@
 #On ignore les fichier
-bin\
-obj\
-.vs\
+/bin/
+/obj/
+/.vs/
