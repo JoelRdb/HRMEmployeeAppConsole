@@ -1,6 +1,6 @@
 # HRMEmployeeAppConsole
-Ce petit projet est une application console pour me perfectionner en langage C# en suivant le cours sur PluralSight. 
-Une application fonctionnelle qui permet de:
-  1 - Enregistrer un employé,
-  2 - Enregistrer les heures de travail et payer les employés.
-Une petite interface utilisateur en tant qu'application console.
+
+This small project is a console application to improve my C# language by following the course on PluralSight. 
+A functional application that allows to: 
+  1 - Register an employee, 
+  2 - Register working hours and pay employees. A small user interface as a console application.
