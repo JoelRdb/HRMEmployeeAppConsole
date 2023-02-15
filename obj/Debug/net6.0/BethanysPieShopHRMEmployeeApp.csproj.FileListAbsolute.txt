@@ -1,0 +1,15 @@
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\bin\Debug\net6.0\BethanysPieShopHRMEmployeeApp.exe
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\bin\Debug\net6.0\BethanysPieShopHRMEmployeeApp.deps.json
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\bin\Debug\net6.0\BethanysPieShopHRMEmployeeApp.runtimeconfig.json
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\bin\Debug\net6.0\BethanysPieShopHRMEmployeeApp.dll
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\bin\Debug\net6.0\BethanysPieShopHRMEmployeeApp.pdb
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.csproj.AssemblyReference.cache
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.AssemblyInfoInputs.cache
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.AssemblyInfo.cs
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.csproj.CoreCompileInputs.cache
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.dll
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\refint\BethanysPieShopHRMEmployeeApp.dll
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.pdb
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\BethanysPieShopHRMEmployeeApp.genruntimeconfig.cache
+D:\Perfectionnement .NET\1 - Introduction to the C# Type System\BethanysPieShopHRMEmployeeApp\obj\Debug\net6.0\ref\BethanysPieShopHRMEmployeeApp.dll
